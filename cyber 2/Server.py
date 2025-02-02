@@ -8,7 +8,7 @@ from cryptography.hazmat.primitives.asymmetric import padding
 from cryptography.hazmat.primitives import serialization, hashes
 from cryptography.hazmat.primitives.ciphers.aead import AESGCM
 
-SERVER_HOST = '0.0.0.0'
+SERVER_HOST = '143.198.52.68'
 SERVER_PORT = 8444
 LOGS_DIR = "logs"
 
